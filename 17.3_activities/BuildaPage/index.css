@@ -1,0 +1,74 @@
+.menuItem {
+    display: inline-block;
+    background-color: grey;
+    text-align: center;
+    color: white;
+    width: 500 px;
+    padding: 20px;
+}
+
+nav {
+    background-color: lightgrey;
+    border: 5px solid black;
+}
+
+.leftColumn {
+    width: 29%;
+    float: left;
+    background-color: blue;
+    height: 450px;
+}
+
+.rightColumn {
+    width: 70%;
+    float: left;
+    background-color: green;
+    height: 450px;
+}
+
+.profileBox {
+    background-color: orange;
+    height: 100px;
+    text-align: center;
+    padding: 30px;
+}
+
+.profileColumn {
+    background-color: orangered;
+    height: 300px;
+    text-align: left;
+    padding: 30px;
+}
+
+.AboutTop {
+    text-align: left;
+    height: 70%px;
+}
+
+h3 {
+    text-align: center;
+}
+
+img {
+    padding: 20px;
+}
+
+h2 {
+    text-align: center;
+    padding: 10px;
+}
+
+.imageAbsolute {
+    float: left;
+}
+
+.aboutBottom {
+    height: 30%;
+    width: 100%;
+    background-color: lightgreen;
+    float:left;
+}
+
+.animalpic {
+    display: inline-block;
+}
